@@ -1,0 +1,23 @@
+# Regra obrigatoria do trabalho (cache local da PokeAPI e CSVs)
+dados_brutos/
+
+# Python (bytecode e compilacao)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos temporarios e de sistema
+.DS_Store
+*.tmp
+*.temp
+
+# Configuracoes de IDEs
+.vscode/
+.idea/
