@@ -2,7 +2,7 @@
 
 ## Integrantes do Grupo
 
-- **[Lucas Pinheiro da Costa]**
+- **Lucas Pinheiro da Costa**
 
 
 ---
